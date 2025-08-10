@@ -2,7 +2,6 @@
 
 A Python program that fetches **live** and **historical** stock market data, calculates moving averages, and plots price trends using Yahoo Finance data.
 
----
 
 ## Features
 - Fetches historical stock price data for any ticker (e.g., AAPL, MSFT, TSLA).
@@ -14,10 +13,10 @@ A Python program that fetches **live** and **historical** stock market data, cal
   - Time period
   - Data interval
 
----
 
 ## Installation
 Make sure you have Python installed (**3.8+ recommended**).  
 Install dependencies:
 ```bash
 pip install yfinance matplotlib pandas
+
