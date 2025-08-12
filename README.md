@@ -1,4 +1,4 @@
-# Stock Price Tracker
+## Stock Price Tracker
 
 A Python program that fetches **live** and **historical** stock market data, calculates moving averages, and plots price trends using Yahoo Finance data.
 
@@ -19,4 +19,5 @@ Make sure you have Python installed (**3.8+ recommended**).
 Install dependencies:
 ```bash
 pip install yfinance matplotlib pandas
+
 
